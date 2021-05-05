@@ -33,9 +33,7 @@ public class TaskDefs {
 
     @When("Sonuçlar listesinden https:\\/\\/roofstacks.com adresine girilir.")
     public void sonuçlar_listesinden_https_roofstacks_com_adresine_girilir() {
-
         googleHomePage.searchedItem.click();
-
     }
 
     @Then("Kariyer sayfasına gidilir.")

@@ -1,6 +1,6 @@
 Feature: RoofStack Task
   @wip
-  Scenario: Task Steps
+  Scenario: UI Task Steps
     Given Google’a 'Roof Stack Yazılım' şeklinde arama yapılır.
     When Sonuçlar listesinden https://roofstacks.com adresine girilir.
     Then Kariyer sayfasına gidilir.

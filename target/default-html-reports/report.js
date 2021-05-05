@@ -5,7 +5,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.scenario({
-  "name": "Task Steps",
+  "name": "UI Task Steps",
   "description": "",
   "keyword": "Scenario",
   "tags": [
